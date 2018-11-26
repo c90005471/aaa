@@ -8,7 +8,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
  * @author TeacherChen
  * @description 日志切面类
  * @company AAA软件
- * @classname Qy78
+ * @classname Qy78777777777777
  * 2018-11-23上午11:35:59
  */
 public class LogAspect {
